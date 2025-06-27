@@ -1,23 +1,23 @@
 criaCartao(
-    'Matue',
-    'Qual foi o ultimo album do matue',
-    '333'
+    'Lua',
+    'Qual é o diâmetro da Lua?',
+    'Aproximadamente 3.474 km.'
 )
 
 criaCartao(
-    'Matue',
-    'Quem é Matue',
-    'Matuê é um rapper e cantor brasileiro, bastante conhecido na cena do trap e rap nacional'
+    'Lua',
+    'Quanto tempo a Lua leva para orbitar a Terra?',
+    'Cerca de 27,3 dias (órbita sideral).'
 )
 
 criaCartao(
-    'Tue',
-    'Qual a melhor musica do matue',
-    'Estou em dúvida'
+    'Lua',
+    'A Lua tem atmosfera?',
+    'Não, possui apenas uma exosfera muito tênue.'
 )
 
 criaCartao(
-    '30',
-    'Oque é  a 30',
-    'A 30 é um dos álbuns mais conhecidos de Matuê, lançado em 2020💜💜💜'
+    'Lua',
+    'Em que fase está a Lua hoje',
+    'Ainda não sei💜'
 )
